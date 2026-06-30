@@ -1,0 +1,166 @@
+[
+  {
+    "candidate_id": "8665c88e106da2f4",
+    "full_name": "Alice Johnson",
+    "primary_email": {
+      "value": "alice.johnson@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+14155550123",
+      "confidence": 0.9
+    },
+    "city": "San Francisco",
+    "country": "US",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React",
+      "AWS",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "years_experience": 8.0,
+    "headline": "Senior Software Engineer"
+  },
+  {
+    "candidate_id": "9a50b1ce0dd36118",
+    "full_name": "Bob Smith",
+    "primary_email": {
+      "value": "bob.smith@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+16505550198",
+      "confidence": 0.9
+    },
+    "city": "Mountain View",
+    "country": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "TensorFlow",
+      "Data Visualization",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "years_experience": 5.0,
+    "headline": "Data Scientist"
+  },
+  {
+    "candidate_id": "2c6137498a67626f",
+    "full_name": "Carol White",
+    "primary_email": {
+      "value": "carol.white@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+14085550167",
+      "confidence": 0.9
+    },
+    "city": null,
+    "country": null,
+    "skills": [
+      "Figma",
+      "Sketch",
+      "User Research",
+      "Prototyping"
+    ],
+    "years_experience": 6.0,
+    "headline": "UX Designer"
+  },
+  {
+    "candidate_id": "70d4dbfc756d0baa",
+    "full_name": "David Lee",
+    "primary_email": {
+      "value": "david.lee@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+16505550142",
+      "confidence": 0.9
+    },
+    "city": null,
+    "country": null,
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform"
+    ],
+    "years_experience": 4.0,
+    "headline": "DevOps Engineer"
+  },
+  {
+    "candidate_id": "ce122a302e740940",
+    "full_name": "Emma Davis",
+    "primary_email": {
+      "value": "emma.davis@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+14155550189",
+      "confidence": 0.9
+    },
+    "city": null,
+    "country": null,
+    "skills": [
+      "Product Strategy",
+      "Agile",
+      "Roadmapping",
+      "Stakeholder Management"
+    ],
+    "years_experience": 7.0,
+    "headline": "Product Manager"
+  },
+  {
+    "candidate_id": "250ee5692f7cc9e7",
+    "full_name": "Frank Miller",
+    "primary_email": {
+      "value": "frank.miller@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+16505550177",
+      "confidence": 0.9
+    },
+    "city": "Palo Alto",
+    "country": "US",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Deep Learning",
+      "Nlp",
+      "Computer Vision"
+    ],
+    "years_experience": null,
+    "headline": "Machine Learning Engineer at AI Labs"
+  },
+  {
+    "candidate_id": "2ca50fe2518f4ab0",
+    "full_name": "Grace Chen",
+    "primary_email": {
+      "value": "grace.chen@email.com",
+      "confidence": 0.95
+    },
+    "phone": {
+      "value": "+14085550134",
+      "confidence": 0.9
+    },
+    "city": "San Jose",
+    "country": "US",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "Webpack"
+    ],
+    "years_experience": null,
+    "headline": "Frontend Developer at WebCo"
+  }
+]

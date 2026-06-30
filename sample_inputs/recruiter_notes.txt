@@ -1,0 +1,54 @@
+Candidate: Alice Johnson
+Email: alice.johnson@email.com
+Phone: 415-555-0123
+Location: San Francisco, CA, USA
+Current Role: Senior SWE at TechCorp
+Skills: Python, React, AWS, Docker, PostgreSQL
+Education: BS Computer Science, Stanford University, 2015
+Experience:
+- TechCorp (2018-present): Senior Software Engineer, built microservices platform
+- StartupABC (2015-2018): Software Engineer, full-stack development
+Notes: Strong technical skills, great communication, looking for leadership role
+
+---
+
+Candidate: Frank Miller
+Email: frank.miller@email.com
+Phone: 650-555-0177
+Location: Palo Alto, California, United States
+Current Role: Machine Learning Engineer at AI Labs
+Skills: Python, TensorFlow, PyTorch, Deep Learning, NLP, Computer Vision
+Education: MS Artificial Intelligence, MIT, 2019; BS Mathematics, UC Berkeley, 2017
+Experience:
+- AI Labs (2020-present): ML Engineer, working on NLP models
+- Research Intern at Google (Summer 2019): Computer vision research
+Notes: PhD dropout, very strong ML background, published 3 papers at top conferences
+
+---
+
+Candidate: Bob Smith
+Email: bob.smith@email.com
+Phone: 650.555.0198
+Location: Mountain View, CA
+Skills: Python, SQL, Machine Learning, Data Visualization, Pandas, Scikit-learn
+Current Company: DataInc
+Title: Data Scientist
+Years of Experience: 5
+Education: MS Data Science, University of Washington, 2019
+Notes: Good cultural fit, strong analytics skills, interested in remote work
+
+---
+
+Candidate: Grace Chen
+Email: grace.chen@email.com
+Phone: (408) 555-0134
+Location: San Jose, CA, USA
+Current Role: Frontend Developer at WebCo
+Skills: JavaScript, TypeScript, React, Vue.js, HTML, CSS, Webpack
+Education: BS Software Engineering, San Jose State University, 2018
+Experience:
+- WebCo (2020-present): Frontend Developer, building e-commerce platform
+- FreelanceDev (2018-2020): Freelance web developer
+GitHub: https://github.com/gracechen
+Portfolio: https://gracechen.dev
+Notes: Strong frontend skills, portfolio looks impressive, available immediately

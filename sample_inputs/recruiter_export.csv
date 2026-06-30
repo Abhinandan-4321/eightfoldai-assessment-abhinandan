@@ -1,0 +1,6 @@
+name,email,phone,current_company,title,linkedin,years_exp,skills
+Alice Johnson,alice.johnson@email.com,(415) 555-0123,TechCorp,Senior Software Engineer,https://linkedin.com/in/alicejohnson,8,"Python, JavaScript, React, AWS"
+Bob Smith,bob.smith@email.com,+1-650-555-0198,DataInc,Data Scientist,https://linkedin.com/in/bobsmith,5,"Python, Machine Learning, SQL, TensorFlow"
+Carol White,carol.white@email.com,4085550167,DesignCo,UX Designer,https://linkedin.com/in/carolwhite,6,"Figma, Sketch, User Research, Prototyping"
+David Lee,david.lee@email.com,(650) 555-0142,CloudSystems,DevOps Engineer,,4,"Docker, Kubernetes, AWS, Terraform"
+Emma Davis,emma.davis@email.com,+14155550189,StartupXYZ,Product Manager,https://linkedin.com/in/emmadavis,7,"Product Strategy, Agile, Roadmapping, Stakeholder Management"
