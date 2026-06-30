@@ -37,13 +37,18 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Output files (keep sample outputs for demo)
-# sample_outputs/
+# Documentation (keep README only)
+DESIGN.md
+DESIGN_ONE_PAGE.md
+TESTING_GUIDE.md
+IMPLEMENTATION_SUMMARY.md
+QUICK_START.md
+SUBMISSION_CHECKLIST.md
+
+# PDF design documents (will be submitted separately)
+*.pdf
 
 # Temporary files
 *.log
 *.tmp
 .cache/
-
-# PDF design documents (will be submitted separately)
-*.pdf
