@@ -66,12 +66,6 @@ python tests/test_pipeline.py
 └── tests/                       # Unit + integration tests
 ```
 
-## Documentation
-
-- **`DESIGN_ONE_PAGE.md`** — Technical design document (convert to PDF for submission)
-- **`TESTING_GUIDE.md`** — Comprehensive testing instructions + demo video script
-- **`IMPLEMENTATION_SUMMARY.md`** — Project overview and metrics
-
 ## Requirements
 
 - Python 3.7+
